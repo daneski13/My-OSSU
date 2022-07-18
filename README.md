@@ -17,7 +17,8 @@ My current plan is outlined below. I will be completing the tools, security, and
 |Removal| [Python for Everybody](https://www.py4e.com/lessons) | Already had some experience with programming languages and some fundamentals. |
 | Removal | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | Took calculus course at my University, very comfortable with differentiation. |
 | Removal | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | The business law class I took at my University covered this subject. |
-| Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular course and is highly regarded as a fast-paced introduction into computer science. |
+| Removal | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Replaced with Harvard's CS50. |
+| Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular course and is highly regarded as a fast-paced introduction into computer science. Replaces MIT's Introduction to Computer Science and Programming using Python. |
 
 ## Courses
 
@@ -25,8 +26,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 
 **Course Name**|**Prereq**|**Institution**|**Date Started**|**Date Completed**
 :-----:|:-----:|:-----:|:-----:|:-----:
-[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1)|high school math|Harvard|March 2022| Discontinued May 2022 after Week 8 (lost interest Web Section)
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))|high school math|MIT|-|-
+[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1)|high school math|Harvard|March 2022| Stopped in May 2022 after Week 8 (lost interest in the Web Section)
 
 ### Core programming
 
