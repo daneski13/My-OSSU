@@ -37,7 +37,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)|prev in section|University of Washington|July 2022|July 2022
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)|prev in section|University of Washington|July 2022|August 2022
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|prev in section|University of Washington|August 2022|September 2022
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|prev in section + Basic Java|University of Alberta|-|-
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|prev in section + Basic Java|University of Alberta|September 2022|September 2022
 [Design Patterns](https://www.coursera.org/learn/design-patterns)|prev in section|University of Alberta|-|-
 [Software Architecture](https://www.coursera.org/learn/software-architecture)|prev in section|University of Alberta|-|-
 
