@@ -4,9 +4,7 @@
 
 This repository contains my OSSU computer science degree progress and plan.
 
-The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete and self-paced education in computer science that adheres to the [degree requirements](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) of an undergraduate computer science major. The curriculum uses course materials from top universities worldwide such as MIT and Stanford.
-
-My current plan is outlined below. I will be completing the tools, security, and ethics courses as they seem relevant.
+The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete and self-paced education in computer science that adheres to the [degree requirements](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) of an undergraduate computer science major. The curriculum uses course materials from major universities worldwide such as MIT, Stanford, The University of British Columbia, UC Davis, and the Hebrew University of Jerusalem.
 
 ![image of current plan](./plan.svg)
 
@@ -19,7 +17,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 | Removal | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | The business law class I took at my University covered this subject. |
 | Removal | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Replaced with Harvard's CS50. |
 | Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular course, highly regarded as a great fast-paced introduction into computer science. Replaces MIT's Introduction to Computer Science and Programming using Python. |
-| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Seems to be reiteration of Simple Data with more difficult examples and using more CS topics. CS50 and my prior experience already covered those additional topics. |
+| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Seems to be reiteration of Simple Data with more difficult examples and using more CS topics. CS50 and my prior programming experience already covered those additional topics. |
 
 ## Courses
 
@@ -82,7 +80,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 
 **Course Name**|**Prereq**|**Institution**|**Date Started**|**Date Completed**
 :-----:|:-----:|:-----:|:-----:|:-----:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|-|MIT|-|-
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|-|MIT|September 2022|September 2022
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|-|Rochester Institute of Technology|-|-
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|-|UC Davis|-|-
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|-|UC Davis|-|-
