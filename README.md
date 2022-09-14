@@ -19,7 +19,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 | Removal | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | The business law class I took at my University covered this subject. |
 | Removal | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Replaced with Harvard's CS50. |
 | Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular course, highly regarded as a great fast-paced introduction into computer science. Replaces MIT's Introduction to Computer Science and Programming using Python. |
-| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Seems to be reiteration of Simple Data with more difficult examples and using more CS topics. CS50 already covered those additional topics. |
+| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Seems to be reiteration of Simple Data with more difficult examples and using more CS topics. CS50 and my prior experience already covered those additional topics. |
 
 ## Courses
 
@@ -27,7 +27,7 @@ My current plan is outlined below. I will be completing the tools, security, and
 
 **Course Name**|**Prereq**|**Institution**|**Date Started**|**Date Completed**
 :-----:|:-----:|:-----:|:-----:|:-----:
-[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1)|high school math|Harvard|March 2022| Stopped in May 2022 after Week 8 (lost interest in the Web Section)
+[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1)|high school math|Harvard|March 2022| May 2022 - Stopped after Week 8 (lost interest in the Web Section)
 
 ### Core programming
 
@@ -35,8 +35,8 @@ My current plan is outlined below. I will be completing the tools, security, and
 :-----:|:-----:|:-----:|:-----:|:-----:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)|intro section|The University of British Columbia|June 2022|June 2022
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)|prev in section|University of Washington|July 2022|July 2022
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)|prev in section|University of Washington|-|-
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|prev in section|University of Washington|-|-
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)|prev in section|University of Washington|July 2022|August 2022
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|prev in section|University of Washington|August 2022|-
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|prev in section|University of Alberta|-|-
 [Design Patterns](https://www.coursera.org/learn/design-patterns)|prev in section|University of Alberta|-|-
 [Software Architecture](https://www.coursera.org/learn/software-architecture)|prev in section|University of Alberta|-|-
