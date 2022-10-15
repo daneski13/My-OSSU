@@ -2,7 +2,7 @@
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-This repository contains my OSSU computer science degree progress and plan.
+This repository is a way for me to organize my progress and plan.
 
 The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete and self-paced education in computer science that adheres to the [degree requirements](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) of an undergraduate computer science major. The curriculum uses course materials from major universities worldwide such as MIT, Stanford, The University of British Columbia, UC Davis, and the Hebrew University of Jerusalem.
 
@@ -12,12 +12,12 @@ The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete an
 
 | Addition/Removal | Course | Reason |
 | :--------------: | :----: | :----: |
-|Removal| [Python for Everybody](https://www.py4e.com/lessons) | Already had some experience with programming languages and some fundamentals. |
-| Removal | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | Took calculus course at my University, very comfortable with differentiation. |
-| Removal | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | The business law class I took at my University covered this subject. |
+|Removal| [Python for Everybody](https://www.py4e.com/lessons) | Previous experience with programming languages and some fundamentals. |
+| Removal | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | Received high marks in my university's calculus course, very comfortable with differentiation. |
+| Removal | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | Received high marks in my university's business law class which covered this subject. |
 | Removal | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | Replaced with Harvard's CS50. |
-| Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular course, highly regarded as a great fast-paced introduction into computer science. Replaces MIT's Introduction to Computer Science and Programming using Python. |
-| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Seems to be reiteration of Simple Data with more difficult examples and using more CS topics. CS50 and my prior programming experience already covered those additional topics. |
+| Addition | [CS50's Introduction to Computer Science from Harvard](https://cs50.harvard.edu/x/2022/) | Very popular and challenging course. Regarded as one of the best introductory courses in computer science. |
+| Removal | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Deemed redundant after taking the previous "How to Code" given my prior experience. |
 
 ## Courses
 
@@ -25,7 +25,7 @@ The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete an
 
 **Course Name**|**Prereq**|**Institution**|**Date Started**|**Date Completed**
 :-----:|:-----:|:-----:|:-----:|:-----:
-[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1)|high school math|Harvard|March 2022| May 2022 - Stopped after Week 8 (lost interest in the Web Section)
+[CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=eb2236b5f632409f7c049607e9477395&position=1) (until web section) |high school math|Harvard|March 2022| May 2022
 
 ### Core programming
 
@@ -36,7 +36,7 @@ The [OSSU curriculum](https://github.com/ossu/computer-science) is a complete an
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)|prev in section|University of Washington|July 2022|August 2022
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|prev in section|University of Washington|August 2022|September 2022
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|prev in section + Basic Java|University of Alberta|September 2022|September 2022
-[Design Patterns](https://www.coursera.org/learn/design-patterns)|prev in section|University of Alberta|-|-
+[Design Patterns](https://www.coursera.org/learn/design-patterns)|prev in section|University of Alberta|September 2022|October 2022
 [Software Architecture](https://www.coursera.org/learn/software-architecture)|prev in section|University of Alberta|-|-
 
 ### Core math
